@@ -30,11 +30,12 @@ B9PartSwitch\
 ModuleManager\
 CommunityResourcePack
 
-Supports (planned for 1.0):\
+Supports (As of 1.0):\
 Bluedog Design Bureau\
 Shuttle Orbiter Construction Kit + reDIRECT\
 Stock\
 ReStock+\
+Near Future Spacecraft\
 Making History\
 Yeah, it isn't very much, but more will come!
 
