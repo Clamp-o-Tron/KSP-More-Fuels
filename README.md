@@ -17,7 +17,7 @@ A: Oops! I am a very fallible human. Contact me with the info in the same way as
 Q: How do I download?\
 A: Spacedock link and forum link incoming. Check for releases here too!\
 Q: Why doesn't this affect monoprop engines?\
-A: I'm assuming those are meant to just be hydrazine engines.
+A: I'm assuming those are meant to just be hydrazine engines.\
 Q: Is this compatible with KSP version x.x.x?\
 A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!\
 Q: What in the heck does QIIWBFAQBNHSTY mean?\
