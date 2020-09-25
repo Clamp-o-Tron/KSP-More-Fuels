@@ -30,9 +30,8 @@ CommunityResourcePack
 
 Supports (planned for 1.0):\
 Bluedog Design Bureau\
-Tantares (LV)\
 Shuttle Orbiter Construction Kit\
-REdirect
+Yeah, it isn't very much, but more will come!
 
 Credits:\
 Jsolson for basis of the patch\
