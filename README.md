@@ -28,7 +28,7 @@ CommunityResourcePack
 
 Supports (planned for 1.0):\
 Bluedog Design Bureau\
-Tantares\
+Tantares (LV)\
 Shuttle Orbiter Construction Kit\
 REdirect\
 Near Future Spacecraft
