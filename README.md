@@ -11,8 +11,8 @@ A: Shoo. Back to RO with you.\
 Q: How do I request compatibility for stuff?\
 A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself!\
 Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
-A: Oops! I am a very fallible human. Contact me with the info in the same way as above.
-Q: How do I download?
+A: Oops! I am a very fallible human. Contact me with the info in the same way as above.\
+Q: How do I download?\
 A: Spacedock link and forum link incoming. Check for releases here too!
 
 Dependencies:\
