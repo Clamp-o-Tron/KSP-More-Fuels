@@ -3,6 +3,8 @@
 A stockalike Kerbal Space Program mod to add another fuel mixture to the game for (very) partial realism.\
 This is designed for use with stockalike mods like Bluedog Design Bureau and Tantares.
 
+This is HEAVILY in Dev, more mod support will come soon!
+
 QIIWBFAQBNHSTY:\
 Q: Why are these all AZ50/NTO?\
 A: Simplicity. We don't need to go all RealFuels, this is STOCKALIKE hypergols.\
