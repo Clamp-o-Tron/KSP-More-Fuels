@@ -30,7 +30,10 @@ CommunityResourcePack
 
 Supports (planned for 1.0):\
 Bluedog Design Bureau\
-Shuttle Orbiter Construction Kit\
+Shuttle Orbiter Construction Kit + reDIRECT\
+Stock\
+ReStock+\
+Making History\
 Yeah, it isn't very much, but more will come!
 
 Credits:\
