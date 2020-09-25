@@ -1,7 +1,6 @@
 # KSP-Stockalike-Hypergols
 
 A stockalike Kerbal Space Program mod to add another fuel mixture to the game for (very) partial realism.\
-This is designed for use with stockalike mods like Bluedog Design Bureau and Tantares.
 
 This is HEAVILY in Dev, more mod support will come soon!
 
@@ -24,7 +23,7 @@ Q: What in the heck does QIIWBFAQBNHSTY mean?\
 A: Questions I Imagine Would Be Frequently Asked Questions But Nobody Has Said These Yet.
 
 Q: How do I download?\
-A: Spacedock link and forum link incoming. Check for releases here too!\
+A: Spacedock link and forum link incoming. Check for releases here too!
 
 Dependencies:\
 B9PartSwitch\
