@@ -3,12 +3,24 @@
 A stockalike Kerbal Space Program mod to add another fuel mixture to the game for (very) partial realism.\
 This is designed for use with stockalike mods like Bluedog Design Bureau and Tantares.
 
+QIIWBFAQBNHSTY:\
+Q: Why are these all AZ50/NTO?\
+A: Simplicity. We don't need to go all RealFuels, this is STOCKALIKE hypergols.\
+Q: It's not right! [x] doesn't burn AZ50/NTO!\
+A: Shoo. Back to RO with you.\
+Q: How do I request compatibility for stuff?\
+A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself!\
+Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
+A: Oops! I am a very fallible human. Contact me with the info in the same way as above.
+Q: How do I download?
+A: Spacedock link and forum link incoming. Check for releases here too!
+
 Dependencies:\
 B9PartSwitch\
 ModuleManager\
 CommunityResourcePack
 
-Supports (as of 1.0):\
+Supports (planned for 1.0):\
 Bluedog Design Bureau\
 Tantares\
 Shuttle Orbiter Construction Kit\
