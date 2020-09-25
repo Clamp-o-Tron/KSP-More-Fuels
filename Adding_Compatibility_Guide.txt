@@ -1,7 +1,7 @@
 So you want to make a part use StockalikeHypergols?
 It's really simple! Just follow these steps:
 
-1. Find the in-game name(s) of the part(s) you want to add support to. You might want to apply this to a tank and an engine so you get fuel and a way to burn it.
+1. Find the in-game name(s) of the engine(s).
 2. Create a .cfg file with the following text somewhere in GameData:
   @PART[]:FIRST
   {
