@@ -8,6 +8,8 @@ Q: Why are these all AZ50/NTO?\
 A: Simplicity. We don't need to go all RealFuels, this is STOCKALIKE hypergols.\
 Q: It's not right! [x] doesn't burn AZ50/NTO!\
 A: Shoo. Back to RO with you.\
+Q: Does this need RealFuels?\
+A: Nope.\
 Q: How do I request compatibility for stuff?\
 A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself!\
 Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
