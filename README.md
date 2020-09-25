@@ -17,7 +17,9 @@ A: Oops! I am a very fallible human. Contact me with the info in the same way as
 Q: How do I download?\
 A: Spacedock link and forum link incoming. Check for releases here too!\
 Q: Is this compatible with KSP version x.x.x?\
-A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!
+A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!\
+Q: What in the heck does QIIWBFAQBNHSTY mean?\
+A: Questions I Imagine Would Be Frequently Asked Questions But Nobody Has Said These Yet.
 
 Dependencies:\
 B9PartSwitch\
