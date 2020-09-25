@@ -11,7 +11,7 @@ A: Shoo. Back to RO with you.\
 Q: Does this need RealFuels?\
 A: Nope.\
 Q: How do I request compatibility for stuff?\
-A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself!\
+A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself! There's a guide in the package if you want to do that and don't know how.\
 Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
 A: Oops! I am a very fallible human. Contact me with the info in the same way as above.\
 Q: How do I download?\
