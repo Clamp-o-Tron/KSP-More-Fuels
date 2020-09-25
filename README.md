@@ -13,7 +13,9 @@ A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request i
 Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
 A: Oops! I am a very fallible human. Contact me with the info in the same way as above.\
 Q: How do I download?\
-A: Spacedock link and forum link incoming. Check for releases here too!
+A: Spacedock link and forum link incoming. Check for releases here too!\
+Q: Is this compatible with KSP version x.x.x?\
+A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!
 
 Dependencies:\
 B9PartSwitch\
