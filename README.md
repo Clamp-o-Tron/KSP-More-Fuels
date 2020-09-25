@@ -16,6 +16,8 @@ Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn'
 A: Oops! I am a very fallible human. Contact me with the info in the same way as above.\
 Q: How do I download?\
 A: Spacedock link and forum link incoming. Check for releases here too!\
+Q: Why doesn't this affect monoprop engines?\
+A: I'm assuming those are meant to just be hydrazine engines.
 Q: Is this compatible with KSP version x.x.x?\
 A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!\
 Q: What in the heck does QIIWBFAQBNHSTY mean?\
@@ -30,8 +32,7 @@ Supports (planned for 1.0):\
 Bluedog Design Bureau\
 Tantares (LV)\
 Shuttle Orbiter Construction Kit\
-REdirect\
-Near Future Spacecraft
+REdirect
 
 Credits:\
 Jsolson for basis of the patch\
