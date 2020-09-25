@@ -12,18 +12,19 @@ Q: It's not right! [x] doesn't burn AZ50/NTO!\
 A: Shoo. Back to RO with you.\
 Q: Does this need RealFuels?\
 A: Nope.\
+Q: Why doesn't this affect monoprop engines?\
+A: I'm assuming those are meant to just be hydrazine engines.\
 Q: How do I request compatibility for stuff?\
 A: Raise an issue, ping me on the forums @Clamp-o-Tron, or make a pull request if you've done it yourself! There's a guide in the package if you want to do that and don't know how.\
 Q: You messed up a .cfg, made a typo, made an engine hypergolic when it shouldn't be, etc.\
 A: Oops! I am a very fallible human. Contact me with the info in the same way as above.\
-Q: How do I download?\
-A: Spacedock link and forum link incoming. Check for releases here too!\
-Q: Why doesn't this affect monoprop engines?\
-A: I'm assuming those are meant to just be hydrazine engines.\
 Q: Is this compatible with KSP version x.x.x?\
 A: It won't work with KSP2 (yet), but any KSP1 version with a working Module Manager and B9 Part Switch should be just fine!\
 Q: What in the heck does QIIWBFAQBNHSTY mean?\
 A: Questions I Imagine Would Be Frequently Asked Questions But Nobody Has Said These Yet.
+
+Q: How do I download?\
+A: Spacedock link and forum link incoming. Check for releases here too!\
 
 Dependencies:\
 B9PartSwitch\
