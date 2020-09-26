@@ -6,7 +6,7 @@
 {
   %Hypergolic = True
 }
-@PART[benjee10_shuttle_midFueselage]:FIRST:NEEDS[Benjee10_ShuttleOrbiter]:FIRST:NEEDS[Benjee10_ShuttleOrbiter]
+@PART[benjee10_shuttle_midFueselage]:FIRST:NEEDS[Benjee10_ShuttleOrbiter]
 {
   @MODULE:HAS[#Name[ModuleResourceConverter]]
   {
