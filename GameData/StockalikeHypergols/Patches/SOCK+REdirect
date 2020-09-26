@@ -1,0 +1,27 @@
+@PART[DIRECT_KJ10]:FIRST:NEEDS[Benjee10_SharedAssets]
+{
+  %Hypergolic = True
+}
+@PART[benjee10_shuttle_aftFuselage|benjee10_shuttle_midFuselage]:FIRST:NEEDS[Benjee10_ShuttleOrbiter]
+{
+  %Hypergolic = True
+}
+@PART[benjee10_shuttle_midFueselage]:FIRST:NEEDS[Benjee10_ShuttleOrbiter]
+{
+  @MODULE:HAS[#Name[ModuleResourceConverter]]
+  {
+    @INPUT_RESOURCE:HAS[#ResourceName[LiquidFuel]]
+    {
+      @ResourceName = Aerozine50
+    }
+    @INPUT_RESOURC:HAS[#ResourceName[Oxidizer]]
+    {
+      @ResourceName = NitrogenTetroxide
+    }
+  }
+}
+  
+@PART[DIRECT_orion_ServiceModule]:FIRST:NEEDS[reDIRECT]
+{
+  %Hypergolic = True
+}

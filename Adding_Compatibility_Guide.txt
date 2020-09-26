@@ -1,0 +1,14 @@
+So you want to make a part use StockalikeHypergols?
+It's really simple! Just follow these steps:
+
+1. Find the in-game name(s) of the engine(s).
+2. Create a .cfg file with the following text somewhere in GameData:
+  @PART[]:FIRST
+  {
+	  %Hypergolic = True
+  }
+ ... and add that part name in between those square brackets!
+ (If you have more than one, put the symbol "|" in between them)
+ 3. Launch KSP and have fun with them!
+ 4. (Optional) If you want to share your patch with other members of the community, confirm that the patch works by loading the affected parts in the VAB, make sure they use the right resources, then load them up in flight and do a short test firing!
+  a. Then share those .cfgs as detailed in the QIIWBFAQBNHSTY in the ReadMe.md file.
