@@ -1,0 +1,14 @@
+@PART[*]:HAS[@Resource[Oxidizer]]:NEEDS[CryoTanks]
+{
+  MODULE
+  {
+    name = ModuleCryoTank
+    coolingEnabled = false
+    BOILOFFCONFIG
+    {
+      FuelName = Oxidizer
+      BoiloffRate = 0.025
+      CoolingCost = 0.07
+    }
+  }
+}
