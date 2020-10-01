@@ -1,6 +1,6 @@
 //Thanks to Hemeac for these!
 // This won't check for oxidizer as Cryotanks strips out the Resource modules
-@PART[*]:HAS[@MODULE[ModuleCryoTank]:AFTER[zzz_CryoTanks]
+@PART[*]:HAS[@MODULE[ModuleCryoTank]]:AFTER[zzz_CryoTanks]
 {
 	@MODULE[ModuleCryoTank]
 	{
@@ -24,7 +24,7 @@
     BOILOFFCONFIG
     {
       FuelName = Oxidizer
-      BoiloffRate = 0.025
+      BoiloffRate = 0.25
       CoolingCost = 0.07
     }
   }
