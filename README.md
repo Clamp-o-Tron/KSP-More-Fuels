@@ -18,7 +18,7 @@ A: We're still in beta, so you'll have to grab a prerelease from GitHub instead 
 
 Dependencies:\
 B9PartSwitch\
-ModuleManager\
+ModuleManager
 
 Supports (As of 0.2):\
 Bluedog Design Bureau\
