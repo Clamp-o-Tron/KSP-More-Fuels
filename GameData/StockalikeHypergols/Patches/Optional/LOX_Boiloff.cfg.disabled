@@ -29,17 +29,3 @@
     }
   }
 }
-// for installs with BDB's boiloff mechanics but no CryoTanks, probably won't work as per my development flow
-//@PART[*]:HAS[@RESOURCE[Oxidizer],!MODULE[ModuleBdbBoiloff],]:NEEDS[Bluedog_DB,!RealFuels,!CryoTanks]:FOR[zzzHypergolUtils1]
-//{
-//	MODULE
-//	{
-//		name = ModuleBdbBoiloff
-//		CRYOGENICRESOURCE
-//		{
-//			name = Oxidizer
-//			boiloffRate = 2.5
-//			outputResource = Oxygen
-//		}
-//	}
-//}
