@@ -1,2 +1,7 @@
 0.1.0
-  Initial beta release. Please please please report all bugs.
+  •	Initial beta release. Please please please report all bugs.
+0.2.0
+  •	General cleanup and improvements to the switcher system.
+  •	Added an optional config (with Nertea's CryoTanks installed) to make oxidizer (interpreted as LOX) boiloff. This is intended to give the mixture some disadvantages over hypergols.
+  •	Removed CommunityResourcePack dependency.
+  •	Added Aerozine and Nitroxide resources, which are near-identical to CRP Az50 and NTO.
