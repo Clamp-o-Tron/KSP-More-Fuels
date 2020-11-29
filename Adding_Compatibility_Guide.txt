@@ -5,7 +5,7 @@ It's really simple! Just follow these steps:
 2. Create a .cfg file with the following text somewhere in GameData:
   @PART[]:FIRST
   {
-	  %Hypergolic = True
+	  %SHHypergolic = True
   }
  ... and add that part name in between those square brackets!
  (If you have more than one, put the symbol "|" in between them)
