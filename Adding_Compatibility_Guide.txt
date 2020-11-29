@@ -11,4 +11,4 @@ It's really simple! Just follow these steps:
  (If you have more than one, put the symbol "|" in between them)
  3. Launch KSP and have fun with them!
  4. (Optional) If you want to share your patch with other members of the community, confirm that the patch works by loading the affected parts in the VAB, make sure they use the right resources, then load them up in flight and do a short test firing!
-  a. Then share those .cfgs as detailed in the QIIWBFAQBNHSTY in the ReadMe.md file.
+  a. Then share those .cfgs as detailed in the FAQ in the ReadMe.md file.
