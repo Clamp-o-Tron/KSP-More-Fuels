@@ -28,9 +28,12 @@ Shuttle Orbiter Construction Kit + reDIRECT\
 Stock\
 ReStock+\
 Making History\
+Tantares and TantaresLV\
 Yeah, it isn't very much, but more will come!
 
 Credits:\
 Jsolson for basis of the patch\
 Blowfish for B9 Part Switch\
-Sarbian for Module Manager
+Sarbian for Module Manager\
+Hemeac for some work with the CryoTanks patch\
+Gordon Dry for correcting my typos
