@@ -1,4 +1,6 @@
 # KSP-Stockalike-Hypergols
+![screenshot0](https://user-images.githubusercontent.com/58989238/100533179-ffcf6680-31c6-11eb-83d9-bf4f39f9e446.png)
+
 A stockalike Kerbal Space Program mod to add another fuel mixture to the game for (very) partial realism.
 
 This is HEAVILY in Dev, more mod support will come soon! Until I accumulate enough support, this will remain in beta.
