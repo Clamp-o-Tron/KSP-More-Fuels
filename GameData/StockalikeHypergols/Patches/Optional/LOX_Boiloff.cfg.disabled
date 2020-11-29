@@ -8,8 +8,8 @@
 		{
 			FuelName = Oxidizer
 			// in % per hr
-			BoiloffRate = 2.5
-			CoolingCost = 0.07
+			BoiloffRate = 0.02
+			CoolingCost = 0.01
 		}
 	}
 }
@@ -24,8 +24,8 @@
     BOILOFFCONFIG
     {
       FuelName = Oxidizer
-      BoiloffRate = 2.5
-      CoolingCost = 0.07
+      BoiloffRate = 0.02
+      CoolingCost = 0.01
     }
   }
 }
