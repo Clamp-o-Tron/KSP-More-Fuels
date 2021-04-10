@@ -1,0 +1,15 @@
+@RESOURCE[LiquidFuel]
+{
+	@displayName = Kerosene
+  @abbreviation = RP-1
+}
+@RESOURCE[Oxidizer]
+{
+	@displayName = LqdOxygen
+  @abbreviation = LOX
+}
+@RESOURCE[Monopropellant]
+{
+	@displayName = Hydrazine
+  @abbreviation = H2N4
+}
