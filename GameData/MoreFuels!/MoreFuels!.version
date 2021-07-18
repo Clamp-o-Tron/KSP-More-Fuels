@@ -1,9 +1,9 @@
 {
-    "NAME":"StockalikeHypergols",
+    "NAME":"MoreFuels!",
     "GITHUB":
     {
         "USERNAME":"Clamp-o-Tron",
-        "REPOSITORY":"KSP-Stockalike-Hypergols",
+        "REPOSITORY":"KSP-More-Fuels",
         "ALLOW_PRE_RELEASE":false,
     },
     "VERSION":
@@ -13,10 +13,10 @@
         "PATCH":0,
         "BUILD":0
     },
-    "KSP_VERSION":
+    "KSP_VERSION_MIN":
     {
         "MAJOR":1,
-        "MINOR":9,
-        "PATCH":1
+        "MINOR":8,
+        "PATCH":0
     },
 }
