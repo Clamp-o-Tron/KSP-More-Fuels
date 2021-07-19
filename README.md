@@ -1,5 +1,6 @@
 # KSP-Stockalike-Hypergols
-![screenshot0](https://user-images.githubusercontent.com/58989238/100533179-ffcf6680-31c6-11eb-83d9-bf4f39f9e446.png)
+![banner](https://github.com/Clamp-o-Tron/KSP-More-Fuels/blob/DEV/GameData/MoreFuels!/banner.png?raw=true)
+
 
 A simple Kerbal Space Program mod to add a few more fuel mixtures to the game for (very) partial realism.
 
