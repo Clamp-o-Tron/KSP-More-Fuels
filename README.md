@@ -1,4 +1,4 @@
-# KSP-Stockalike-Hypergols
+# More Fuels!
 ![banner](https://github.com/Clamp-o-Tron/KSP-More-Fuels/blob/DEV/GameData/MoreFuels!/banner.png?raw=true)
 
 
