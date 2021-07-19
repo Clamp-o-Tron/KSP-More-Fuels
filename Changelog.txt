@@ -1,0 +1,21 @@
+0.1.0
+  •	Initial beta release. Please please please report all bugs.
+
+
+0.2.0
+  •	General cleanup and improvements to the switcher system.
+  •	Added an optional config (with Nertea's CryoTanks installed) to make oxidizer (interpreted as LOX) boiloff. This is intended to give the mixture some disadvantages over hypergols.
+  •	Removed CommunityResourcePack dependency.
+  •	Added Aerozine and Nitroxide resources, which are near-identical to CRP Az50 and NTO.
+
+
+0.3.0
+  • Renamed to More Fuels!
+  • Major rewrite of central features.
+  • Added RCS fuel switching.
+  • Added a couple more resources and fuel mixtures.
+  • Added a Real Names patch (in the Patches/Optional directory) to change stock fuel names to fit with the rest of the mod.
+    Known Issues:
+    • Currently lacking a system to switch monopropellant to other RCS fuels. Upcoming in 0.3.1.
+    • RCS fuel switching is currently broken for parts with multiple instances of ModuleRCSFx. Upcoming fix in 0.3.1.
+    • HTP/LF patch appears to be broken. Upcoming fix in 0.3.1.
